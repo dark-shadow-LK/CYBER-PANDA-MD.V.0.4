@@ -7,7 +7,7 @@
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000BFF&random=false&width=435&lines=%F0%9D%98%93%F0%9D%98%96%F0%9D%98%88%F0%9D%98%8B%F0%9D%98%90%F0%9D%98%95%F0%9D%98%8E%3A+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%F0%9F%A6%8B+%E2%94%82%F0%9D%90%82%F0%9D%90%98%F0%9D%90%81%F0%9D%9C%A9%F0%9D%90%91%E2%94%82%F0%9D%90%8F%F0%9D%9C%9F%F0%9D%90%8D%F0%9D%90%83%F0%9D%90%80%E2%94%82%F0%9D%90%8C%F0%9D%90%83%E2%94%82%F0%9D%90%95%E2%9E%82+%F0%9F%A6%8B)](https://git.io/typing-svg)
 
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><rect fill="#FF156D" stroke="#FF156D" stroke-width="15" width="30" height="30" x="25" y="50"><animate attributeName="y" calcMode="spline" dur="2" values="50;120;50;" keySplines=".5 0 .5 1;.5 0 .5 1" repeatCount="indefinite" begin="-.4"></animate></rect><rect fill="#FF156D" stroke="#FF156D" stroke-width="15" width="30" height="30" x="85" y="50"><animate attributeName="y" calcMode="spline" dur="2" values="50;120;50;" keySplines=".5 0 .5 1;.5 0 .5 1" repeatCount="indefinite" begin="-.2"></animate></rect><rect fill="#FF156D" stroke="#FF156D" stroke-width="15" width="30" height="30" x="145" y="50"><animate attributeName="y" calcMode="spline" dur="2" values="50;120;50;" keySplines=".5 0 .5 1;.5 0 .5 1" repeatCount="indefinite" begin="0"></animate></rect></svg>
 ## DEPLOY STEPS BY STEPS
 ____________________
 
